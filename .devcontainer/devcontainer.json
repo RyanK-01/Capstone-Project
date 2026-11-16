@@ -1,0 +1,9 @@
+{
+  "name": "SAIV Development",
+  "dockerComposeFile": [
+    "../docker-compose.yml",
+    "docker-compose.devcontainer.yml"
+  ],
+  "service": "frontend",
+  "workspaceFolder": "/app"
+}
